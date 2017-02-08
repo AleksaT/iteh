@@ -1,0 +1,28 @@
+.container-fluid {
+    margin-top: 30px;
+    background-color: #f1f1f1;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.btn-danger{
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+}
+.btn-danger{
+    width: 150px;
+    height: 50px;
+}
+#newCont{
+    background-color: #2e2e2e;
+    margin: 7%;
+    border-top-left-radius: 4%;
+    border-bottom-right-radius: 4%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2{
+    color: white;
+    color-interpolation: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#headerCon{
+    background-image:url(../img/intro-bg1.jpg);
+}
